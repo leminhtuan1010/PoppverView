@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB24F8C01ECC94D0006F4204 /* PoppverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB24F8BF1ECC94D0006F4204 /* PoppverViewController.swift */; };
 		CB661F5F1ECC07520045F27F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB661F5E1ECC07520045F27F /* AppDelegate.swift */; };
 		CB661F611ECC07520045F27F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB661F601ECC07520045F27F /* ViewController.swift */; };
 		CB661F641ECC07520045F27F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB661F621ECC07520045F27F /* Main.storyboard */; };
 		CB661F661ECC07520045F27F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB661F651ECC07520045F27F /* Assets.xcassets */; };
 		CB661F691ECC07520045F27F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB661F671ECC07520045F27F /* LaunchScreen.storyboard */; };
+		CB661F7B1ECC0A030045F27F /* angry.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F701ECC0A030045F27F /* angry.png */; };
+		CB661F7C1ECC0A030045F27F /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F711ECC0A030045F27F /* avatar1.png */; };
+		CB661F7D1ECC0A030045F27F /* comment.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F721ECC0A030045F27F /* comment.png */; };
+		CB661F7E1ECC0A030045F27F /* greyLike.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F731ECC0A030045F27F /* greyLike.png */; };
+		CB661F7F1ECC0A030045F27F /* haha.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F741ECC0A030045F27F /* haha.png */; };
+		CB661F801ECC0A030045F27F /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F751ECC0A030045F27F /* img.png */; };
+		CB661F811ECC0A030045F27F /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F761ECC0A030045F27F /* like.png */; };
+		CB661F821ECC0A030045F27F /* love.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F771ECC0A030045F27F /* love.png */; };
+		CB661F831ECC0A030045F27F /* sad.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F781ECC0A030045F27F /* sad.png */; };
+		CB661F841ECC0A030045F27F /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F791ECC0A030045F27F /* share.png */; };
+		CB661F851ECC0A030045F27F /* wow.png in Resources */ = {isa = PBXBuildFile; fileRef = CB661F7A1ECC0A030045F27F /* wow.png */; };
+		CBF8E3D31ECC47B200E4C8F0 /* avatar2.png in Resources */ = {isa = PBXBuildFile; fileRef = CBF8E3D21ECC47B200E4C8F0 /* avatar2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB24F8BF1ECC94D0006F4204 /* PoppverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PoppverViewController.swift; sourceTree = "<group>"; };
 		CB661F5B1ECC07520045F27F /* PoppverView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PoppverView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB661F5E1ECC07520045F27F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB661F601ECC07520045F27F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +36,18 @@
 		CB661F651ECC07520045F27F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB661F681ECC07520045F27F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB661F6A1ECC07520045F27F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB661F701ECC0A030045F27F /* angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = angry.png; sourceTree = "<group>"; };
+		CB661F711ECC0A030045F27F /* avatar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar1.png; sourceTree = "<group>"; };
+		CB661F721ECC0A030045F27F /* comment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comment.png; sourceTree = "<group>"; };
+		CB661F731ECC0A030045F27F /* greyLike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greyLike.png; sourceTree = "<group>"; };
+		CB661F741ECC0A030045F27F /* haha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haha.png; sourceTree = "<group>"; };
+		CB661F751ECC0A030045F27F /* img.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img.png; sourceTree = "<group>"; };
+		CB661F761ECC0A030045F27F /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		CB661F771ECC0A030045F27F /* love.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = love.png; sourceTree = "<group>"; };
+		CB661F781ECC0A030045F27F /* sad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sad.png; sourceTree = "<group>"; };
+		CB661F791ECC0A030045F27F /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		CB661F7A1ECC0A030045F27F /* wow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wow.png; sourceTree = "<group>"; };
+		CBF8E3D21ECC47B200E4C8F0 /* avatar2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +80,25 @@
 		CB661F5D1ECC07520045F27F /* PoppverView */ = {
 			isa = PBXGroup;
 			children = (
+				CBF8E3D21ECC47B200E4C8F0 /* avatar2.png */,
+				CB661F701ECC0A030045F27F /* angry.png */,
+				CB661F711ECC0A030045F27F /* avatar1.png */,
+				CB661F721ECC0A030045F27F /* comment.png */,
+				CB661F731ECC0A030045F27F /* greyLike.png */,
+				CB661F741ECC0A030045F27F /* haha.png */,
+				CB661F751ECC0A030045F27F /* img.png */,
+				CB661F761ECC0A030045F27F /* like.png */,
+				CB661F771ECC0A030045F27F /* love.png */,
+				CB661F781ECC0A030045F27F /* sad.png */,
+				CB661F791ECC0A030045F27F /* share.png */,
+				CB661F7A1ECC0A030045F27F /* wow.png */,
 				CB661F5E1ECC07520045F27F /* AppDelegate.swift */,
 				CB661F601ECC07520045F27F /* ViewController.swift */,
 				CB661F621ECC07520045F27F /* Main.storyboard */,
 				CB661F651ECC07520045F27F /* Assets.xcassets */,
 				CB661F671ECC07520045F27F /* LaunchScreen.storyboard */,
 				CB661F6A1ECC07520045F27F /* Info.plist */,
+				CB24F8BF1ECC94D0006F4204 /* PoppverViewController.swift */,
 			);
 			path = PoppverView;
 			sourceTree = "<group>";
@@ -124,9 +163,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB661F821ECC0A030045F27F /* love.png in Resources */,
 				CB661F691ECC07520045F27F /* LaunchScreen.storyboard in Resources */,
+				CB661F7D1ECC0A030045F27F /* comment.png in Resources */,
+				CB661F7B1ECC0A030045F27F /* angry.png in Resources */,
 				CB661F661ECC07520045F27F /* Assets.xcassets in Resources */,
+				CB661F7E1ECC0A030045F27F /* greyLike.png in Resources */,
+				CB661F831ECC0A030045F27F /* sad.png in Resources */,
+				CB661F7F1ECC0A030045F27F /* haha.png in Resources */,
+				CBF8E3D31ECC47B200E4C8F0 /* avatar2.png in Resources */,
+				CB661F811ECC0A030045F27F /* like.png in Resources */,
+				CB661F801ECC0A030045F27F /* img.png in Resources */,
 				CB661F641ECC07520045F27F /* Main.storyboard in Resources */,
+				CB661F7C1ECC0A030045F27F /* avatar1.png in Resources */,
+				CB661F841ECC0A030045F27F /* share.png in Resources */,
+				CB661F851ECC0A030045F27F /* wow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB661F611ECC07520045F27F /* ViewController.swift in Sources */,
+				CB24F8C01ECC94D0006F4204 /* PoppverViewController.swift in Sources */,
 				CB661F5F1ECC07520045F27F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +356,7 @@
 				CB661F6F1ECC07520045F27F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
